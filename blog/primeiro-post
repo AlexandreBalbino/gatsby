@@ -1,0 +1,18 @@
+{
+  "data": {
+    "allFile": {
+      "nodes": [
+        {
+          "name": "my-first-post"
+        },
+        {
+          "name": "another-post"
+        },
+        {
+          "name": "yet-another-post"
+        }
+      ]
+    }
+  },
+  "extensions": {}
+}
